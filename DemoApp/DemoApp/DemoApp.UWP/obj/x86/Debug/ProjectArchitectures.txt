@@ -1,0 +1,1 @@
+C:\GitHub\xamarin-mvvm-localstorage\DemoApp\DemoApp\DemoApp.UWP\DemoApp.UWP.csproj;x86
